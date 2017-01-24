@@ -1,6 +1,6 @@
 Author: Sergio Pablo Mendoza
 
-Margaret-Hamilton
+Margaret Hamilton
 
 -Not only computer scietists but also a systems engineer  
   
